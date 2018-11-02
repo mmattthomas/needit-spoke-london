@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Log">0e0ae8c2531003003bf1d9109ec587c8</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Action Test Flow">f75fa611dbe16300477d9fd2ca961981</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-02 18:16:44</sys_created_on>
+        <sys_id>f121b2d1dbe16300477d9fd2ca961937</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_288541_needit_sp">d88ea611dbe16300477d9fd2ca96195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">d88ea611dbe16300477d9fd2ca96195c</sys_scope>
+        <sys_update_name>sys_hub_action_instance_f121b2d1dbe16300477d9fd2ca961937</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-02 18:42:38</sys_updated_on>
+        <ui_id>dbf21fdd-06b0-4186-b95a-731d8da9cef1</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=f121b2d1dbe16300477d9fd2ca961937"/>
+    <sys_element_mapping action="delete_multiple" query="id=f121b2d1dbe16300477d9fd2ca961937"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>log_message</field>
+        <id>f121b2d1dbe16300477d9fd2ca961937</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-02 18:16:44</sys_created_on>
+        <sys_id>7d21b2d1dbe16300477d9fd2ca96193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-02 18:16:44</sys_updated_on>
+        <table>var__m_sys_hub_action_input_0e0ae8c2531003003bf1d9109ec587c8</table>
+        <value>value is: {{d047a497-0e24-41f8-9481-b95c3342c066.property_value}}</value>
+    </sys_element_mapping>
+</record_update>

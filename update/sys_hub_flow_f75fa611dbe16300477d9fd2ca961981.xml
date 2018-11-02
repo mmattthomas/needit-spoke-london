@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"714adc0e-837e-4fa6-8823-0faa563f3969.new_date","label":"3➛new_date","type":"glide_date","base_type":"glide_date"},{"name":"d047a497-0e24-41f8-9481-b95c3342c066.property_value","label":"1➛property_value","reference_display":"property_value","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-02 18:08:57</sys_created_on>
+        <sys_id>f75fa611dbe16300477d9fd2ca961981</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_288541_needit_sp">d88ea611dbe16300477d9fd2ca96195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">d88ea611dbe16300477d9fd2ca96195c</sys_scope>
+        <sys_update_name>sys_hub_flow_f75fa611dbe16300477d9fd2ca961981</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-02 18:42:38</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=f75fa611dbe16300477d9fd2ca961981"/>
+    <sys_variable_value action="delete_multiple" query="document_key=f75fa611dbe16300477d9fd2ca961981"/>
+</record_update>
